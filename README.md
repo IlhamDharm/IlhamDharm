@@ -18,13 +18,6 @@
 🐍 Currently learning Python & AI Development
 🚀 Building projects to turn ideas into useful applications
 ```
-
-I'm an **Informatics Engineering student** who enjoys building applications, exploring new technologies, and turning ideas into practical projects.
-
-My current focus is on **AI Development and Backend Engineering**, while continuing to improve my skills in full-stack development, databases, APIs, and software engineering.
-
----
-
 ## 🚀 What I'm Currently Learning
 
 * 🤖 AI Development
@@ -35,9 +28,7 @@ My current focus is on **AI Development and Backend Engineering**, while continu
 * 🐳 Docker
 * 🗄️ PostgreSQL
 * 🔧 Software Engineering
-
 ---
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -55,32 +46,6 @@ My current focus is on **AI Development and Backend Engineering**, while continu
 ### Database & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,postman" /> <br> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> </p>
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 RepoInsight AI
-
-AI-powered GitHub repository analysis tool designed to provide useful insights from software repositories through an interactive dashboard.
-
-**Stack:** Laravel • Python • AI • PostgreSQL • REST API
-
----
-
-### 🏔️ SafeHike
-
-A hiking safety project focused on providing useful information and technology-based support for outdoor activities and mountain exploration.
-
-**Stack:** Python • AI • Web Development
-
----
-
-### 📈 StockPulse ID
-
-Real-time Indonesian stock monitoring application built to display stock market information through an interactive dashboard.
-
-**Stack:** Laravel • Vue.js • PostgreSQL • API
 
 ---
 
