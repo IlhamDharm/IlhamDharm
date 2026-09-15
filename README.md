@@ -85,25 +85,9 @@ Real-time Indonesian stock monitoring application built to display stock market 
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamDharm&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamDharm&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IlhamDharm&theme=transparent&hide_border=true" />
 </p>
-
----
-
-## 📌 Current Goal
-
-> **Become an AI Engineer by continuously learning, building, and shipping real-world projects.**
-
-```text
-Learn → Build → Test → Improve → Repeat 🚀
-```
 
 ---
 
