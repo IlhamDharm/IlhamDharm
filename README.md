@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilham Dharma Atmaja</h1>
 
-<h3 align="center">Informatics Engineering Student • Aspiring AI Engineer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
@@ -18,17 +16,6 @@
 🐍 Currently learning Python & AI Development
 🚀 Building projects to turn ideas into useful applications
 ```
-## 🚀 What I'm Currently Learning
-
-* 🤖 AI Development
-* 🧠 Machine Learning
-* 🐍 Python
-* ⚡ FastAPI
-* 🌐 REST API
-* 🐳 Docker
-* 🗄️ PostgreSQL
-* 🔧 Software Engineering
----
 ## 💻 Tech Stack
 
 ### Languages
