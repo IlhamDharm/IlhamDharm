@@ -43,17 +43,6 @@
 
 ---
 
-## 🌱 Beyond Coding
-
-When I'm not coding, I enjoy:
-
-🏔️ Hiking & exploring mountains
-📸 Photography & outdoor content
-🌲 Exploring nature
-💡 Finding ideas for projects with real-world impact
-
----
-
 ## 📫 Connect With Me
 
 <p align="left"> <a href="https://github.com/IlhamDharm"> <img src="https://img.shields.io/badge/GitHub-IlhamDharm-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
