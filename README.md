@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Dharma Atmaja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
