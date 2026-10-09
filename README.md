@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ilham Dharma Atmaja</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005BFF,100:00C6FF&height=220&section=header&text=Ilham%20Dharma%20Atmaja&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=58&descSize=15" width="100%" alt="Ilham Dharma Atmaja profile banner"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
@@ -50,8 +51,6 @@
 <a href="https://www.instagram.com/ilhmdharm/"> <img src="https://img.shields.io/badge/Instagram-@ilhmdharm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
 <a href="mailto:meniandol@gmail.com"> <img src="https://img.shields.io/badge/Email-meniandol%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=539BF5&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Footer" />
 </p>
