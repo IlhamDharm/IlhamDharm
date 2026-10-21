@@ -5,11 +5,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005BFF,100:00C6FF&height=220&section=header&text=Ilham%20Dharma%20Atmaja&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=58&descSize=15" width="100%" alt="Ilham Dharma Atmaja profile banner"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -41,6 +36,67 @@
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,postman" /> <br> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> </p>
 
 ---
+<!-- PROJECT SHOWCASE -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <em>Selected projects, experiments, and ideas in progress.</em>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 RepoInsight AI</h3>
+      <p>
+        Exploring AI-powered repository insights and
+        tools for developer workflows.
+      </p>
+      <p>
+        <strong>Focus:</strong> Artificial Intelligence<br/>
+        <strong>Category:</strong> Developer Tools
+      </p>
+      <a href="https://github.com/IlhamDharm/repoinsight-ai">
+        ↗ Explore Repository
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏔️ SafeHike</h3>
+      <p>
+        An outdoor project exploring ways to support
+        safer and more informed hiking activities.
+      </p>
+      <p>
+        <strong>Focus:</strong> Outdoor Safety<br/>
+        <strong>Category:</strong> Application
+      </p>
+      <a href="https://github.com/IlhamDharm/SafeHike">
+        ↗ Explore Repository
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⛺ CampSpot — Outdoor Equipment Rental</h3>
+      <p>
+        A technopreneurship project focused on an outdoor
+        equipment rental concept for hiking enthusiasts.
+      </p>
+      <p>
+        <strong>Focus:</strong> Rental Marketplace<br/>
+        <strong>Category:</strong> Technopreneurship
+      </p>
+      <a href="https://github.com/IlhamDharm/Sewa-Alat-Outdoor">
+        ↗ Explore Repository
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/IlhamDharm?tab=repositories">
+    <strong>View All Repositories →</strong>
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 <p align="center">
