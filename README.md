@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./banner.svg" alt="IlhamDharm Developer Banner" width="100%" />
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005BFF,100:00C6FF&height=220&section=header&text=Ilham%20Dharma%20Atmaja&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=58&descSize=15" width="100%" alt="Ilham Dharma Atmaja profile banner"/>
