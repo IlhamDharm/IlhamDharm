@@ -98,14 +98,6 @@
   </a>
 </p>
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IlhamDharm&theme=transparent&hide_border=true" />
-</p>
-
----
-
-
 ---
 
 ## 📫 Connect With Me
