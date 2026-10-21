@@ -28,7 +28,7 @@
         font-size="14" letter-spacing="3">HELLO, WORLD. I'M</text>
 
   <text x="90" y="137" fill="#FFFFFF" font-family="Arial, sans-serif"
-        font-size="55" font-weight="700">IlhamDharm</text>
+        font-size="55" font-weight="700">IlhamDharmaA</text>
 
   <rect x="92" y="157" width="54" height="4" rx="2" fill="url(#accent)"/>
 
