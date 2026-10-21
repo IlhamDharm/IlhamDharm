@@ -105,13 +105,32 @@
 
 ---
 
+
+---
+
 ## 📫 Connect With Me
 
-<p align="left"> <a href="https://github.com/IlhamDharm"> <img src="https://img.shields.io/badge/GitHub-IlhamDharm-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<a href="https://www.instagram.com/ilhmdharm/"> <img src="https://img.shields.io/badge/Instagram-@ilhmdharm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-
-<a href="mailto:meniandol@gmail.com"> <img src="https://img.shields.io/badge/Email-meniandol%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Footer" />
+  <a href="https://github.com/IlhamDharm">
+    <img src="https://img.shields.io/badge/GitHub-IlhamDharm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/ilhmdharm/">
+    <img src="https://img.shields.io/badge/Instagram-@ilhmdharm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:meniandol@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+<p align="center">
+  <em>Always Learning & Building 🚀</em>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=140&section=footer"
+    width="100%"
+    alt="Blue wave footer"
+  />
+</p>
+
